@@ -1,16 +1,31 @@
-## Hi there 👋
+ Hi there, I'm Timothy 👋
 
-<!--
-**tkemboi889-ops/tkemboi889-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Currently studying Software Engineering
+- 💻 Passionate about Backend Development (Python, APIs, Databases)
+- 🎯 Goal: Become a world-class backend developer solving real-world problems
+- 
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Languages:** Python, 
+- **Frameworks:**  Django
+- **Databases:** MySQL, 
+- **Tools:** Git, GitHub,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: [tkemboi889@gmail.com](tkemboi889@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/timothy-kemboi-58a7532a8?](https://www.linkedin.com/in/timothy-kemboi-58a7532a8?)
+- 📝 Blog/Portfolio: [https://sites.google.com/view/timothy-kemboi?usp=sharing](https://sites.google.com/view/timothy-kemboi?usp=sharing)
+
